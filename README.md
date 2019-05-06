@@ -9,7 +9,7 @@
 * Meet the Team
 * Contact
 
-##### Additional Landing Pages:
+#### Additional Landing Pages:
 * About
 * Services
 * FAQs
